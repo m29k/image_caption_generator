@@ -120,9 +120,7 @@ image-caption-generator/
 For more details on the model training and implementation, check out the original Kaggle notebook:
 [Image Caption Generator on Kaggle](https://www.kaggle.com/code/manish29k/image-caption-generator)
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
